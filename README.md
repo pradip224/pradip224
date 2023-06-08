@@ -1,3 +1,5 @@
+<center>
+
 <h1 align="center">Hi 👋, I'm PRADIP PATRA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="fullstack developer" />
@@ -33,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradip224&show_icons=true&locale=en" alt="pradip224" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradip224&" alt="pradip224" /></p>
+
+  
+</center>
