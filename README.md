@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRADIP PATRA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="fullstack developer" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip224&label=Profile%20views&color=0e75b6&style=flat" alt="pradip224" /> </p>
 
